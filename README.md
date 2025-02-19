@@ -20,7 +20,7 @@ The Haiku Generator App is a Python-based console application that allows users 
 ### Usage:
 1. Run the application:  
    ```
-   python haiku_app.py
+   python haiku.py
    ```
 2. Follow the console prompts to generate, view, or add haikus.
 
