@@ -1,0 +1,12 @@
+i 
+love
+cs50!
+
+i 
+also
+love coding!
+
+i
+am
+happy!
+
